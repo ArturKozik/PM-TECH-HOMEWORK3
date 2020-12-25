@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:homeWork3-3/homeWork3-3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:homeWork3-2(1)/homeWork3-2(1).xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:homeWork3-1.Calculator.PM/homeWork3.Calculator.PM.xcodeproj">
+   </FileRef>
+</Workspace>
